@@ -1,0 +1,27 @@
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatServer\bin\Debug\ProjetoChatServer.exe
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatServer\bin\Debug\ProjetoChatServer.pdb
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatServer\obj\Debug\ProjetoChatServer.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatServer\obj\Debug\ProjetoChatServer.exe
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatServer\obj\Debug\ProjetoChatServer.pdb
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatServer\obj\Debug\ProjetoChatServer.csprojAssemblyReference.cache
+F:\ProjetoChatV2\ProjetoChatServer\obj\Debug\ProjetoChatServer.exe
+F:\ProjetoChatV2\ProjetoChatServer\obj\Debug\ProjetoChatServer.pdb
+F:\ProjetoChatV2\ProjetoChatServer\bin\Debug\ProjetoChatServer.exe
+F:\ProjetoChatV2\ProjetoChatServer\obj\Debug\ProjetoChatServer.csprojResolveAssemblyReference.cache
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatServer\bin\Debug\ProjetoChatServer.exe
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatServer\bin\Debug\ProjetoChatServer.pdb
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatServer\obj\Debug\ProjetoChatServer.csprojAssemblyReference.cache
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatServer\obj\Debug\ProjetoChatServer.exe
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatServer\obj\Debug\ProjetoChatServer.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatServer\bin\Debug\ProjetoChatServer.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatServer\bin\Debug\ProjetoChatServer.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatServer\obj\Debug\ProjetoChatServer.csprojAssemblyReference.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatServer\obj\Debug\ProjetoChatServer.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatServer\obj\Debug\ProjetoChatServer.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatServer\obj\Debug\ProjetoChatServer.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatServer\bin\Debug\ProjetoChatServer.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatServer\bin\Debug\ProjetoChatServer.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatServer\obj\Debug\ProjetoChatServer.csprojAssemblyReference.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatServer\obj\Debug\ProjetoChatServer.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatServer\obj\Debug\ProjetoChatServer.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatServer\obj\Debug\ProjetoChatServer.pdb

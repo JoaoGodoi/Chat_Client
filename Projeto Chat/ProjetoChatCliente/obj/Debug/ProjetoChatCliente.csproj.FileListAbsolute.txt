@@ -1,0 +1,50 @@
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\bin\Debug\ProjetoChatCliente.exe
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\bin\Debug\ProjetoChatCliente.pdb
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csprojAssemblyReference.cache
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.Form1.resources
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.Properties.Resources.resources
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.GenerateResource.cache
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.exe
+C:\Users\João\Desktop\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.pdb
+F:\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.exe
+F:\ProjetoChatV2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.pdb
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\bin\Debug\ProjetoChatCliente.exe
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\bin\Debug\ProjetoChatCliente.pdb
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csprojAssemblyReference.cache
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.Form1.resources
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.Properties.Resources.resources
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.GenerateResource.cache
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.exe
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.pdb
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\bin\Debug\ProjetoChatServer.exe
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\bin\Debug\ProjetoChatServer.pdb
+C:\Temporario\Projeto Chat Joao Vitor\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.CopyComplete
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\bin\Debug\ProjetoChatCliente.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\bin\Debug\ProjetoChatCliente.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\bin\Debug\ProjetoChatServer.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\bin\Debug\ProjetoChatServer.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csprojAssemblyReference.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.Form1.resources
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.Properties.Resources.resources
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.GenerateResource.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.CopyComplete
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.ShowImage.resources
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.ShowText.resources
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\bin\Debug\ProjetoChatCliente.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\bin\Debug\ProjetoChatCliente.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\bin\Debug\ProjetoChatServer.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\bin\Debug\ProjetoChatServer.pdb
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csprojAssemblyReference.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.Form1.resources
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.Properties.Resources.resources
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.ShowImage.resources
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.ShowText.resources
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.GenerateResource.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.csproj.CopyComplete
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.exe
+C:\Users\João\Desktop\Projeto Chat Joao Vitor 2 sem zika\ProjetoChatCliente\obj\Debug\ProjetoChatCliente.pdb
